@@ -10,7 +10,6 @@
 
 ## <img src = "https://github.com/SneakyTurtIe/intel-oneAPI/assets/59119736/80522c5e-f814-4c3d-906a-e5518ccdd150" height = "50px" > A Brief of the Prototype:
   
-  
   <img src ="https://media.giphy.com/media/dqQxplKANtn8c/giphy.gif" height = "250" width = "100%"/>
   
   
